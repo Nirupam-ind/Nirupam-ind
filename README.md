@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nirupam-ind
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Java,python 
+- 🌱 I’m currently learning Java,python,Machine Learning
 - 📫 How to reach me through my github id
 - 😄 Pronouns: ...
 - ⚡ Fun fact: don't know wheter going in right direction or not
